@@ -6,6 +6,7 @@
 - [template-x68k](https://github.com/68fpjc/template-x68k) - クロス開発テンプレート
 - [ita-toolbox](https://github.com/68fpjc/ita-toolbox) - Human68k ITA TOOLBOX ビルド環境
 - [vsjpeg.x](https://github.com/68fpjc/vsjpeg) - JPEG ローダ
+- [libpcd](https://github.com/68fpjc/libpcd) - PhotoCD ライブラリ
 
 ## その他 (未整理)
 
