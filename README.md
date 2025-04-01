@@ -1,16 +1,17 @@
-## Hi there 👋
+## X68000
 
-<!--
-**68fpjc/68fpjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [idhcpc](https://github.com/68fpjc/idhcpc) - 低機能 DHCP クライアント
+- [efind](https://github.com/68fpjc/efind) - GNU find モドキ
+- [fzy-x68k](https://github.com/68fpjc/fzy-x68k) - ファジーファインダー fzy の移植
+- [template-x68k](https://github.com/68fpjc/template-x68k) - クロス開発テンプレート
+- [ita-toolbox](https://github.com/68fpjc/ita-toolbox) - Human68k ITA TOOLBOX ビルド環境
 
-Here are some ideas to get you started:
+## その他 (未整理)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [unified-remote-tvtest](https://github.com/68fpjc/unified-remote-tvtest) - Unified Remote で TVTest をコントロール
+- https://github.com/68fpjc/jellyfin-plugin-epgstation
+- https://github.com/68fpjc/jellyfin-plugins
+- https://github.com/68fpjc/docker-bon-mirakurun
+- https://github.com/68fpjc/tvchannels-scan-mirakc
+- https://github.com/68fpjc/docker-b25
+- https://github.com/68fpjc/docker-ts2ass-monitor
