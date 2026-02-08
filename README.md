@@ -4,6 +4,7 @@
 - [efind](https://github.com/68fpjc/efind) - GNU find モドキ
 - [fzy-x68k](https://github.com/68fpjc/fzy-x68k) - ファジーファインダー fzy の移植 [README-x68k.md](https://github.com/68fpjc/fzy-x68k/blob/x68k-main/README-x68k.md)
 - [chop](https://github.com/68fpjc/chop) - 入力の右側をカットするフィルタ
+- [isz](https://github.com/68fpjc/isz) - X68000 Z 判定器
 - [template-x68k](https://github.com/68fpjc/template-x68k) - クロス開発テンプレート
 - [ita-toolbox](https://github.com/68fpjc/ita-toolbox) - Human68k ITA TOOLBOX ビルド環境
 - ガラクタ
