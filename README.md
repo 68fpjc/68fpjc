@@ -16,6 +16,11 @@
   - [exryg.x](https://github.com/68fpjc/exryg) - 『アルゴスの戦士』支援ツール
   - [motos.x](https://github.com/68fpjc/motos) - 『MOTOS』支援ツール
 
+## gists
+
+- [pom.xml for XEiJ](https://gist.github.com/68fpjc/1d11c2e1ca47894e5c7de9fc0500f7a6)
+- []()
+
 ## その他 (未整理)
 
 - [unified-remote-tvtest](https://github.com/68fpjc/unified-remote-tvtest) - Unified Remote で TVTest をコントロール
