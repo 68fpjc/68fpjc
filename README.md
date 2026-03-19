@@ -19,7 +19,7 @@
 ## gists
 
 - [pom.xml for XEiJ](https://gist.github.com/68fpjc/1d11c2e1ca47894e5c7de9fc0500f7a6)
-- []()
+- [MinGW64 GCC 13 をダウンロードして展開するスクリプト](https://gist.github.com/68fpjc/87cb227e7e9a69233ec8f04a6970a7d5)
 
 ## その他 (未整理)
 
