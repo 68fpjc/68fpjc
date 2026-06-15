@@ -5,6 +5,7 @@
 - [fzy-x68k](https://github.com/68fpjc/fzy-x68k) - ファジーファインダー fzy の移植 [README-x68k.md](https://github.com/68fpjc/fzy-x68k/blob/x68k-main/README-x68k.md)
 - [chop](https://github.com/68fpjc/chop) - 入力の右側をカットするフィルタ
 - [isz](https://github.com/68fpjc/isz) - X68000 Z 判定器
+- [xeij-maven](https://github.com/68fpjc/xeij-maven) - XEiJ を Maven でビルドする
 - [template-x68k](https://github.com/68fpjc/template-x68k) - クロス開発テンプレート
 - [ita-toolbox](https://github.com/68fpjc/ita-toolbox) - Human68k ITA TOOLBOX ビルド環境
 - ガラクタ
@@ -18,7 +19,7 @@
 
 ## gists
 
-- [pom.xml for XEiJ](https://gist.github.com/68fpjc/1d11c2e1ca47894e5c7de9fc0500f7a6)
+- ~~[pom.xml for XEiJ](https://gist.github.com/68fpjc/1d11c2e1ca47894e5c7de9fc0500f7a6)~~
 - [MinGW64 GCC 13 をダウンロードして展開するスクリプト](https://gist.github.com/68fpjc/87cb227e7e9a69233ec8f04a6970a7d5)
 
 ## その他 (未整理)
