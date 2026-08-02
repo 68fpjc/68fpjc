@@ -24,6 +24,7 @@
 
 ## その他 (未整理)
 
+- [rikishi-scraper](https://github.com/68fpjc/rikishi-scraper) - 大相撲力士のプロフィールを JSON で出力する CLI ツール
 - [unified-remote-tvtest](https://github.com/68fpjc/unified-remote-tvtest) - Unified Remote で TVTest をコントロール
 - https://github.com/68fpjc/jellyfin-plugin-epgstation
 - https://github.com/68fpjc/jellyfin-plugins
